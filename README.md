@@ -1,5 +1,3 @@
-# Windows Security Essentials Repository
-
 # Microsoft Windows Defender and Firewall
 
 Welcome to **Microsoft Windows Defender and Firewall for Beginners**! This repository is your comprehensive guide to mastering the basics of Windows security, focusing on Microsoft Windows Defender Antivirus and Windows Defender Firewall.
